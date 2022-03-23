@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Importando…
 encryptingFile = Criptografando…
 decryptingFile = Descriptografando…
@@ -43,8 +43,8 @@ passwordSetError = Essa senha não pôde ser definida
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Compartilhamento de arquivos fácil e privativo

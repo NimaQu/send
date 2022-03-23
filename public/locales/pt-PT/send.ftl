@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = A importar...
 encryptingFile = A encriptar...
 decryptingFile = A desencriptar...
@@ -43,8 +43,8 @@ passwordSetError = Esta palavra-passe não pôde ser definida
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Partilha de ficheiros simples e privada

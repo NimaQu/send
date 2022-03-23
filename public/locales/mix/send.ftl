@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Ndakiin…
 encryptingFile = Ndasami tu'un…
 decryptingFile = Nchiko tu'un…
@@ -43,8 +43,8 @@ passwordSetError = Ma ku ntanii tu'un see
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Stucha kue tutu ku

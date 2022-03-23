@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Importation…
 encryptingFile = Cryptation...
 decryptingFile = Decryptation…
@@ -43,8 +43,8 @@ passwordSetError = Iste contrasigno non ha potite esser establite
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Comparti file in maniera confidential

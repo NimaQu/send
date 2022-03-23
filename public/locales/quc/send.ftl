@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Ujek'ik…
 encryptingFile = Uwiqik…
 decryptingFile = Usolik…
@@ -43,7 +43,7 @@ passwordSetError = Man kkowimb'ex ta ujeqeb'axik le retokib'al
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Fubukifox Send
 -send-short-brand = Utaqik
 -firefox = Firefox
 -mozilla = Mozilla

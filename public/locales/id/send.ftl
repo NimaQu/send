@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Mengimpor…
 encryptingFile = Mengenkripsi...
 decryptingFile = Mendekripsi...
@@ -41,8 +41,8 @@ passwordSetError = Tidak bisa menyetel sandi ini
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Berbagi berkas dengan mudah dan privat

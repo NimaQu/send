@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = در حال وارد کردن…
 encryptingFile = در حال رمزنگاری…
 decryptingFile = در حال رمزگشایی…
@@ -43,7 +43,7 @@ passwordSetError = امکان ثبت این گذواژه نیست
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Fubukifox Send
 -send-short-brand = ارسال
 -firefox = فایرفاکس
 -mozilla = موزیلا

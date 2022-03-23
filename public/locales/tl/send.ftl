@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Importing…
 encryptingFile = Encrypting…
 decryptingFile = Decrypting…
@@ -38,7 +38,7 @@ passwordSetError = Hindi maitakda ang password na ito
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Fubukifox Send
 -send-short-brand = I-send
 -firefox = Firefox
 -mozilla = Mozilla

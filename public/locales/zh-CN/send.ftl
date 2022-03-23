@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = 正在导入…
 encryptingFile = 正在加密…
 decryptingFile = 正在解密…
@@ -16,19 +16,19 @@ unlockButtonLabel = 解锁
 downloadButtonLabel = 下载
 downloadFinish = 下载完成
 fileSizeProgress = ({ $partialSize } / { $totalSize })
-sendYourFilesLink = 试试 Send
+sendYourFilesLink = 试试 Fubukifox Send
 errorPageHeader = 我们遇到错误。
 fileTooBig = 此文件太大。文件大小上限为 { $size }。
 linkExpiredAlt = 链接已过期
 notSupportedHeader = 不支持您的浏览器。
 notSupportedLink = 为什么不支持我的浏览器？
-notSupportedOutdatedDetail = 很可惜，此版本的 Firefox 不支持 Send 所使用的 Web 技术。您需要更新浏览器才能使用它。
+notSupportedOutdatedDetail = 很可惜，此版本的 Firefox 不支持 Fubukifox Send 所使用的 Web 技术。您需要更新浏览器才能使用它。
 updateFirefox = 更新 Firefox
 deletePopupCancel = 取消
 deleteButtonHover = 删除
 passwordTryAgain = 密码不正确。请重试。
-javascriptRequired = Send 需要 JavaScript
-whyJavascript = 为什么 Send 需要 JavaScript？
+javascriptRequired = Fubukifox Send 需要 JavaScript
+whyJavascript = 为什么 Fubukifox Send 需要 JavaScript？
 enableJavascript = 请启用 JavaScript 并重试。
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours } 小时 { $minutes } 分钟
@@ -41,8 +41,8 @@ passwordSetError = 未能设置此密码
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = 简单、私密的文件分享服务

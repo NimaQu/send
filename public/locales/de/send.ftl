@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Wird importiert…
 encryptingFile = Wird verschlüsselt…
 decryptingFile = Wird entschlüsselt…
@@ -43,8 +43,8 @@ passwordSetError = Dieses Passwort konnte nicht eingerichtet werden
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Einfach und privat Dateien versenden

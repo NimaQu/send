@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Mukalaktia nemi…
 encryptingFile = Tikichtakawiat tinemit…
 decryptingFile = Tikichtakapuat tinemit…
@@ -43,7 +43,7 @@ passwordSetError = Te tiweliket tiktaliat ini ichtakataketzalis
 
 ## Send version 2 strings
 
--send-brand = Send
+-send-brand = Fubukifox Send
 -send-short-brand = Shiktitani
 -firefox = Firefox
 -mozilla = Mozilla

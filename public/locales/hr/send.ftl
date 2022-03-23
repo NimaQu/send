@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Uvoz…
 encryptingFile = Šifriranje …
 decryptingFile = Dešifriranje …
@@ -45,8 +45,8 @@ passwordSetError = Lozinku nije moguće postaviti
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Jednostavno i privatno dijeljenje datoteka

@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = インポート中...
 encryptingFile = 暗号化中...
 decryptingFile = 復号化中...
@@ -41,8 +41,8 @@ passwordSetError = このパスワードは設定できませんでした
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = 簡単に、プライベートにファイル共有

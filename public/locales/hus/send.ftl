@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = k'wajat i chiyál...
 encryptingFile = K'wajat i tsinat dheyál...
 decryptingFile = K'wajat i exal ki wila'...
@@ -41,8 +41,8 @@ passwordSetError = Axi tsinat japixtaláb yab u awil ka eyendha'
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Yab k'ibat, a tsinat t'ojlabil u awil ka buk'uw

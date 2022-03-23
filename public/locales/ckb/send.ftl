@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = هاوردەکردن...
 encryptingFile = بەهێماکردن...
 decryptingFile = هێمالابردن...
@@ -43,8 +43,8 @@ passwordSetError = ناتوانرێت وشەی تێپەڕ دابنرێت
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = سانا، بڵاوکەرەوەی پەڕگەی تایبەتیی

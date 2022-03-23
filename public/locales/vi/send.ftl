@@ -1,4 +1,4 @@
-title = Send
+title = Fubukifox Send
 importingFile = Đang nhập...
 encryptingFile = Đang mã hóa...
 decryptingFile = Đang giải mã...
@@ -41,8 +41,8 @@ passwordSetError = Không thể đặt mật khẩu này
 
 ## Send version 2 strings
 
--send-brand = Send
--send-short-brand = Send
+-send-brand = Fubukifox Send
+-send-short-brand = Fubukifox Send
 -firefox = Firefox
 -mozilla = Mozilla
 introTitle = Chia sẻ tập tin đơn giản, riêng tư
